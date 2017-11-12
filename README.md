@@ -1,6 +1,6 @@
 # react-native-3d-deck-swiper
 
-![demo](https://github.com/sinapcs/react-native-3d-deck-swiper/raw/master/deck-swiper.gif)
+![demo](https://ezgif.com/maker/ezgif-5-6c22330f8f-gif-im/ezgif-5-6c22330f8f.gif)
 
 
 you need just import DeckSwiper and use it like this:
